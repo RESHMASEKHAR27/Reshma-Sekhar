@@ -4,7 +4,7 @@
 
 - 🔧 **Technologies & Tools**: C#, HTML, CSS, JavaScript, React, Git, GitHub Actions, SQL, Selenium, Maven, Jenjins, TestNG and more...
 - 🌱 **Currently learning**: Advanced React patterns, server-side rendering , Advanced Testing.
-- 💬 **Ask me about**: Frontend and Backend development, design systems, Testinmg.
+- 💬 **Ask me about**: Frontend and Backend development, design systems, Testing.
 - 📫 **Reach me**: [reshmasekhar.se@gmail.com](mailto:reshmasekhar.se@gmail.com)
 - 📄 **Experience & Projects**: [LinkedIn](www.linkedin.com/in/reshma-sekhar-ammuab144)
 
